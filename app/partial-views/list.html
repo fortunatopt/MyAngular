@@ -1,0 +1,7 @@
+<div class="span2" ng-repeat="item in items|filter:search|orderBy:orderProp">
+  <div style="height: 170px">
+    <h2>{{ item.title }}</h2>
+    <p>{{ item.content }}</p>
+	</div>
+  <p><a class="btn" href="#items/{{ item.id }}">View details &raquo;</a></p>
+</div><!-- /.span4 -->

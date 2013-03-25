@@ -1,0 +1,49 @@
+[
+	{
+		"title": "Awesome News", 
+		"content": "I think I may be a grandfather soon!", 
+		"date": "3/21/2013", 
+		"author": "Lord of Awesome", 
+		"id": 1
+	},
+	
+	{
+		"title": "Good News", 
+		"content": "My daughter might be telling me she is pregnant tonight!", 
+		"date": "3/22/2013", 
+		"author": "King of Awesome", 
+		"id": 2
+	},
+	
+	{
+		"title": "So So News", 
+		"content": "I may or may not be a grandpa soon.", 
+		"date": "3/23/2013", 
+		"author": "Patrick T. Fortunato Jr.", 
+		"id": 3
+	},
+	
+	{
+		"title": "Bad News", 
+		"content": "My daughter is not married at this time.", 
+		"date": "3/24/2013", 
+		"author": "Patrick Fortunato", 
+		"id": 4
+	},
+	
+	{
+		"title": "Crappy News", 
+		"content": "My daughter has a boyfriend who is kind of a jerk.", 
+		"date": "3/25/2013", 
+		"author": "Annoyed Father", 
+		"id": 5
+	},
+	
+	{
+		"title": "Old News", 
+		"content": "Although I don't care for my daughter's boyfriend, she loves him.", 
+		"date": "3/25/2013", 
+		"author": "Resigned Father", 
+		"id": 6
+	}
+]

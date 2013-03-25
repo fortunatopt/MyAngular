@@ -1,0 +1,18 @@
+<div class="span12">
+  <table class="table table-striped">
+	<tr>
+		<th>Id</td>
+		<th>Title</td>
+		<th>Content</td>
+		<th>Author</td>
+		<th>Date</td>
+	</tr>
+	<tr ng-repeat="item in items|filter:search|orderBy: 'id'|orderBy:orderProp">
+		<td>{{ item.id }}</td>
+		<td>{{ item.title }}</td>
+		<td>{{ item.content }}</td>
+		<td>{{ item.author }}</td>
+		<td>{{ item.date }}</td>
+	</tr>
+  </table>
+</div>
